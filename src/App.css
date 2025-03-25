@@ -47,3 +47,11 @@
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
 }
 
+.Section {
+  border: 5px solid white;
+  padding: 20px;
+  width: 50%;
+  margin: 20px auto;
+
+}
+
